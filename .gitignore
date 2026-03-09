@@ -1,0 +1,12 @@
+# Ignore generated claim JSON files
+out_fhir/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore generated audit output
+audit_report.csv
