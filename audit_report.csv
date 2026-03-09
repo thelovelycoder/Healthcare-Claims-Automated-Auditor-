@@ -1,0 +1,3 @@
+claim_id,dx_codes,cpt_codes,rule,risk,message
+E2004,['Z39.2'],"['59410', '59430']",Postpartum Service Review,Moderate,Postpartum-only service detected. Review whether encounter is non-global billable or should remain in global/postpartum package logic.
+E2001,"['Z39.2', 'Z30.017']","['11981', '59430', 'J7307']",Postpartum Service Review,Moderate,Postpartum-only service detected. Review whether encounter is non-global billable or should remain in global/postpartum package logic.
